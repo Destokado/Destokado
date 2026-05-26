@@ -27,7 +27,7 @@ Backend Software Engineer based in Barcelona, with 4+ years building distributed
 
 I did a double degree in **Computer Engineering and Videogame Design & Production** at Tecnocampus (UPF) — which means I think about systems *and* about the people who use them.
 
-Outside of work I'm a leader in a **Castells (human tower) team**, coordinating up to 50 people in high-pressure live performances. It's the best leadership training I've found.
+Outside of work I'm a leader in a **Castells (human tower) team**, coordinating up to 50 people in high-pressure live performances.
 
 ## Currently
 
